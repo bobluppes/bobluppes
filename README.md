@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobluppes" alt="bobluppes" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bobluppes" target="blank"><img src="https://img.shields.io/twitter/follow/bobluppes?logo=twitter&style=for-the-badge" alt="bobluppes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/b_luppes" target="blank"><img src="https://img.shields.io/twitter/follow/b_luppes?logo=twitter&style=for-the-badge" alt="b_luppes" /></a> </p>
 
 - 👯 I’m looking to collaborate on [Barhive](https://github.com/bobluppes/barhive)
 
